@@ -1,2 +1,3 @@
-# Learning_go
-### Source code for learning go
+# Learning Golang
+### Source code for learning Golang
+From basics to advanced Go concepts
